@@ -1,5 +1,10 @@
-### Hi there 👋
+### Side step right left to my beat! 🧈🧈🧈🧈
 
+<div>
+  <a href="https://github.com/lucas860" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas860&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</div>
 <!--
 **lucas860/lucas860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
